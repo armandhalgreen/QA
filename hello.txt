@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 making a bigger changes
+=======
+making a change 
+>>>>>>> new-branch
